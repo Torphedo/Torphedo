@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi, I go by Torph online. I'm mainly a C/C++ programmer, usually making mods for PC & console games.
+I'm also a first-year Computer Science student. I graduated high school in 2023, so most of my projects
+were written or started in high school.
 
-<!--
-**Torphedo/Torphedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Languages I've Worked In
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,zig,bash,cs,powershell">
 
-Here are some ideas to get you started:
+# Software I Use Often
+<img src="https://skillicons.dev/icons?i=visualstudio,clion,idea,pycharm,cmake,latex,blender,vim,neovim,windows,linux">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Specialties
+I mostly work with binary file formats (as a product of game modding). Recently, I've been researching
+CPU recompilers and HLE designs. I've also done a few projects involving process injection on Windows
+(for mods, as usual).
